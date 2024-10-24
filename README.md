@@ -2,7 +2,7 @@ STEP-1
 To install, simply clone this repository & run the following command  `npm install`, this will install all the dependencies.
 
 STEP-2
-then run this command $env:NODE_OPTIONS = "--openssl-legacy-provider"  The command  is used in a Windows PowerShell environment to set an environment variable named NODE_OPTIONS. This environment variable is used to pass options to Node.js  when it runs.
+then run this command `$env:NODE_OPTIONS = "--openssl-legacy-provider"` The command  is used in a Windows PowerShell environment to set an environment variable named NODE_OPTIONS. This environment variable is used to pass options to Node.js  when it runs.
 
 STEP-3
 ## Running Project
