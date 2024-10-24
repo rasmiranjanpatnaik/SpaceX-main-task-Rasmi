@@ -6,4 +6,4 @@ then run this command `$env:NODE_OPTIONS = "--openssl-legacy-provider"` The comm
 
 STEP-3
 ## Running Project
-To run this project locally, run the following command  `yarn start` or `npm start`, this will start a local instance of the application & you will be able to run the app in your browser at this url http://localhost:3000/.
+To run this project locally, run the following command  `npm start`, this will start a local instance of the application & you will be able to run the app in your browser at this url http://localhost:3000/.
